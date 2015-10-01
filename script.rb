@@ -1,6 +1,5 @@
 class Script
 	require 'securerandom'
-	#file = File.open("words.txt",'r')
 	rollArray = Array.new
 	passArray = Array.new
 
